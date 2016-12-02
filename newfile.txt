@@ -1,0 +1,7 @@
+git clone Destnation_URL
+cd folder
+git pull
+git add 
+git commit
+git push
+
